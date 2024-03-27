@@ -13,15 +13,6 @@
       The investigators learned the chips were inserted in the motherboards during the manufacturing process because they were found in the inspection phase before they were shipped to the consumer. The manufacturing process for all 30 companies that had found the chips all were sub contracted and manufactured in China. It became obvious the Chinese had something to do with the chips being inserted.
 
 
-
-
-
-
-
-
-
-
-
 ## Things i want to know more about
   I wonder where the U.S agencies spy.
   Is it really worth going through all this trouble and risk by manufacturing in China just to save money?

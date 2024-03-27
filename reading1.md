@@ -7,7 +7,7 @@
       Hardware implants like done by the Chinese are where you add a small piece of hardware; Or tampering where you replace a piece of hardware or alter a set piece of hardware with a different set of instructions or data that can hack into the hardware to enable spying. https://chat.openai.com/c/4c3e910f-1356-49ca-a51d-17850b104673
    
     **Explain how the hack worked.**
-      The Chinese implanted microchips about the size of a grain of rice into many servers motherboards. These microchips inserted data into the motherboards and changed data that allowed 3rd party unknown computers to hack into the computers and spy on data.
+      The Chinese implanted "microchips about the size of a grain of rice" into many servers motherboards. These microchips inserted data into the motherboards and changed data that allowed 3rd party unknown computers to hack into the computers and spy on data. https://web.archive.org/web/20190330085155/https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies
    
     **How were investigators able to trace the chips back to the source?**
       The investigators learned the chips were inserted in the motherboards during the manufacturing process because they were found in the inspection phase before they were shipped to the consumer. The manufacturing process for all 30 companies that had found the chips all were sub contracted and manufactured in China. It became obvious the Chinese had something to do with the chips being inserted.

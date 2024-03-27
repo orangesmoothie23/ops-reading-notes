@@ -1,5 +1,7 @@
-# reading 1
+# reading 1 China's Spy Chip
 
+##This relates to my class and area of study because cyber security is to prevent things like this happening and the hardware we use is the same as in this article.
+    
     **How is a hardware hack different than a software hack?**
     A hardware hack is a physical microchip or pc/hardware component altered with or added to hardware like a motherboard or pc, hardware hacks are to extract information or enable a software hack like what happened in the chinese hack. This can also cause hardware failure or uploads data through the hardware hack. A software hack is strictly a digital attack mostly possible through the internet and manipulated digital code. This causes things such as viruses or a data breach. https://store.expliot.io/blogs/iot/a-fundamental-guide-to-hardware-hacking
     

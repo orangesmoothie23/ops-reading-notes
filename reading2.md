@@ -1,2 +1,5 @@
 # Reading2
-yoyoyo
+##Lecture notes
+SSD vs hard drive- hard drive has moving parts, SSD is enirely electronics
+Sata is a connector type , The m2 card recieves power through pci/e slot and a sata plug. The reguluar SSD has two plugs a sata and power plug.
+NVME is a faster connector type than a sata?

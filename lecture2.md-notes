@@ -1,0 +1,22 @@
+##Lecture 2 notes
+SSD vs hard drive- hard drive has moving parts, SSD is enirely electronics
+Sata is a connector type , The m2 card recieves power through pci/e slot and a sata plug. The reguluar SSD has two plugs a sata and power plug.
+NVME is a faster connector type than a sata?
+Desktop is used for high end gaming, laptops are a more difficult platform to get performance out of for gaming.
+Coompanies want desktops in stead of laptops because desktops are hard to steal.
+Desktops are upgradable with pc parts laptops cannot be upgraded internally or is at least fvery difficult.
+A thin client is a very small computer for a an office setting to save desk space.
+A dumb terminal is a weaker thin client with no OS. IT has an app that will bring you to a virtual machine or server. Not used very much anymore.
+PS2 connectors are old school KB and mouse connectors before USB
+IRQ's are independant interfaces for old computers like a parrallel peripheral used for printers, no longer on computers.
+Serial cable is still used in interprise
+Vga evolved to eventually become hdmi, vga was very analog and could only tranfer picture/ colors. Hdmi/Display ports can transfer multiple colors and sound at the same time.
+USB ports consist of 1.0, 2.0, 3.0, 3.1, 4.0 and type C.
+USB are convenient but can be a big security threat.
+You can shut down the use of USB ports in the directory.
+CMOS stores computer settings in the computer, the battery in the motherboard maintains power to the CMOS so the settings dont get lost when the computer loses power.
+The only way to destroy a hard drive is to shoot it with a gun. lul
+NVME drive are the fastest drives out, faster than traditional SSD and m2 ssd by a lot.
+The m2 SSD is faster than than a traditional 2.5 inch SSD.
+Power Supply converts (AC) alternating current to (DC) direct current. 
+Anything Less than or equal to 500 WATT PSU will not have enough power to support an upgraded/ high end graphics card.

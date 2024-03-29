@@ -13,3 +13,7 @@
     ## Think about others with a background similar to yours. How would you explain to them the key parts of a computer, in a way they’d best connect with?
         I would tell them computers have input devices that send data to a processor that processes data but has to be cooled because of the amount of data it processes. Then it displays the information back to you on a monitor screen from a GPU. I would also tell them that computers have hard drives/SSDs that store data long term. All possible by being connected to a motherboard that allows all of the components to communicate with each other.
 
+## Things I want to know more about
+    I would like to know if a fan or water cooler is better on a cpu
+    Would ram above 32 gigs actually make any sort of difference?
+    Does dust buildup hinder performance?

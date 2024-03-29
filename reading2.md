@@ -1,7 +1,5 @@
 # Reading2
-Reading
 
-WikiHow - How to Build a PC: This is a longer article, so it’s OK to skim this, especially parts of the process you’re already familiar with.
 
     ## Which is better in a CPU, more cores or higher speed? Under which circumstances is that true? How many CPU cores does a computer need?
         Higher speed is the ultimate goal of a cpu so i would say higher speed. So a computer could have less cores and faster if it has more gigahertz than a cpu with more cores than it. Although more cores will help you increase the speed of the processor. They're both important it's more about what you would want in your setup. The cores a computer needs is typically based on what you want to use the computer for. If its for gaming a good comfortable amount to have would be six cores. For an office computer four cores should be fine.

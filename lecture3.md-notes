@@ -1,1 +1,23 @@
 ## Lecture 3 notes
+Master boot record knows how the hard drive is structured, where things are at on the hard drive.
+If you lose your master boot record, your hard drive is essentially lost. There are ways to recover.
+Master boot record tells the computer how the hard drive memory is split in multiple sections.
+Hardware and software do not always work hand in hand.
+Hardware malfunctions can cause some software malfunctions.
+You can stress test hardware in the bios.
+You can have more than one OS on a single computer.
+A boot loader allows you to chose what you want to load like OS's.
+ROM is Read Only Memory. Part of the basic input and output system.
+ROM is hard coded memory into the motherboard, like the bios and cannot be changed on old computers unless flashed with a microchip.
+New computers can flash update you bios and memory. It's less secure.
+A server can take 5-10 minutes to boot up. Can see everything that happens when the server boots up.
+There are hundreds of different types of BIOS interfaces. Most follow the same patterns
+Old BIOS systems, you had to tell the BIOS what kind of hard drive specifications it had for it to work.
+The BIOS is in charge of intitializing the hardware and loading the operating system.
+To get into the BIOS you hit F12, delete, f2 key, or shift f2.
+CMOS- Complementary metal-oxide-semiconductor, the battery that mainatains the setting to your bios.
+How to know if the CMOS is dying- incorrect date on boot up or messed up bios settings.
+Reset CMOS memory by removing CMOS battery and reinstalling it.
+You can update firmware, change boot order, adjust CPU, power, and RAM configuration settings in the BIOS.
+You can overclock GPU and CPU in the BIOS settings this will reduce the life span of the hardware.
+Inntergrated nic- onboard network card

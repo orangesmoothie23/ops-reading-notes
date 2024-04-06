@@ -1,1 +1,15 @@
 ##Lecture 4 notes
+Windows has around 30 operating systems alone
+Windows dominates in the operating systems market
+The 3 primary OS are Linux, Windows, and IOS
+Windows XP solved the stability issue, was the first reliable OS for a lot of companies.
+Operating System- A software program that manages computer hardware and software resources, provides user interface, and enables the execution of various operations.
+OS manages applications, memory, device management, and disk management.
+Other small devices have their own OS on them like phones, gaming consoles, aple watches, servers, etc.
+Linux launched in 1991, was asopted by many software companies.
+Linux is free and open source. This means less security and privacy issues.
+Ubuntu Linux is good for general computer use.
+Common Linux distributions - Red Hat - great for servers, CentOS - Great for enterprise deployments, Kali - Used for offensive security.
+Linux CLI - Known for its powerfu command line interface, not its GUI endpoint usability.
+Operating systems get slower over time because of the excess and build up of unused applications.
+LAb kit will run Ubuntu Linux desktop - Access from personal computer using Microsoft  Remote Desktop Protocol (RDP) over port 3389.

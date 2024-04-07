@@ -17,3 +17,7 @@
 
     You need to first open a terminal, which is done through various methods. You could do this through the graphical interface or through a non graphical terminal. Then You type "sudo apt update." This should update the software of ubuntu after you type your password. https://web.archive.org/web/20211109191517/https://www.lifewire.com/ways-to-open-a-terminal-console-window-using-ubuntu-4075024
 
+   ##Things i want to know more about.
+
+      How does Linux control who does what with updates if it's open source? Are there dedicated Linux devolopers or are they all open source 3rd party devolopers?
+

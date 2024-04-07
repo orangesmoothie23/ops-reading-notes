@@ -1,0 +1,10 @@
+##Lecture 4 notes
+Cat 6 ethernet cables are currently the fastest. Wont make much of a difference between cat 5 and 6 in your home.
+Virtual machines allows you to control multiple computers with one computer.
+Hypervisor is windows' virtual software.
+Hypervisor is a type 1 virtualization which is a virtual software that has full access to the computers hardware.
+Type 2 Virtualizion is like virtual box where an application is what runs the computers you are virtualized to. 
+Docker is a container, which is different form a virtual machine. A container is a place for a single application for that application to run. It's for simple functions that do not require a lot of hardware demand.
+Dockers are short term and not meant to live a long time. They are meant to do one thing and then shut down.
+Virtual machine runs operating systems and are meant to run applications and servers, web servers.
+Root is a superuser ,basically god on a linux computer. It can do anything on a linux computer.

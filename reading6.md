@@ -32,7 +32,7 @@ Fascinating history: What one home router can do - The WRT54GL
         Yes
 
     ## Things i want to know more about
-        Is this Linkys primary seller or do they have newer routers?
+        Is this Linkys primary seller or do they have newer better routers?
         
         
     

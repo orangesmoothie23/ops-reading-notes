@@ -1,5 +1,7 @@
 ##Reading 6
 
+This relates to the lab we did in this module connecting our router and setting it up on wifi.
+
 Fascinating history: What one home router can do - The WRT54GL
 
     What makes the Linksys WRT54GL famous?

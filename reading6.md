@@ -27,4 +27,4 @@ Fascinating history: What one home router can do - The WRT54GL
     The new FCC rules enforced only affected 5GHz routers and the WRT54GL is 2.4GHz
     
     Does the WRT54GL model still get updates from Linksys?
-    No, firmware updates are now from 3rd party firmware.
+    Yes

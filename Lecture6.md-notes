@@ -1,1 +1,9 @@
-
+##Lecture 6 notes
+Every ip address in the world is unique to that ip
+ipconfig for windows brings up ip information in cmd.
+ifconfig for mac brings up apple information in the terminal.
+The output for these commands should be Mac address, ip address, Subnet Mask, Gateway address.
+192.168.0.1
+DHCP servers assign ip address within its range.
+WAN is Wide area network
+LAN is local area network.

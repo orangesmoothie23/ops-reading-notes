@@ -1,0 +1,10 @@
+#Lecture notes 7
+(Secure Shell) SSH- used to establish a command line connnection between two computers, uses port 22.
+SCP (secure copy protocol)- runs oover ssh and port 22. Allows the sucure copying of files between two computers.
+RDP (remote desktop prtocol) uses port 3389 by default. Used mostly by microsoft but can be modified to use on other operating systems.
+SSH is a command line connection, rdp is a graphic interface connection. or a "gooey" connection.
+A protocol is an agreed upon set of rules to use for communication.
+A protocol help route ip traffic.
+The DHCP assigns new devices ip addresses from a pool of them.
+RDP is known for its security risks.
+Graphical interfaced can sometimes be eaier to use than command based connections.

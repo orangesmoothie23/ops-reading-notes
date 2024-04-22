@@ -1,0 +1,9 @@
+#Lecture notes 8
+In order to use virtualization you need an interl VT-X or AMD-V chipset. You also need an OS that supports virtualization. You also need Hypervisor software.
+Most OS support virtualizations
+VirtualBox is an application that supports virtualization rather than hypervisor like on windows.
+To virtualize windows 998 or 95 you actually have to virtualize the DOS because it is separate from the actually OS.
+For better performance to run virtual machines is upgraded/more ram, upgraded cpu or more cores.
+Fullscreen resolution increases smoothness and performance of virtual machines.
+Microsoft basically forces copmanies to create drivers and software thats optimized for their hardware.
+Most enterprise ddesktops will be windows 10/11 pro versions.

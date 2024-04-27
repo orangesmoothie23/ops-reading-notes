@@ -1,0 +1,14 @@
+## Lecture notes 9
+Unix is the underlying system of linux.
+Windows has always been its own system.
+windows is now starting to adopt as a lot of unix properties.
+Linux environment has way more folders than a windows environment.
+cd .. goes back, ls lists contents, cd boot goes into boot directory.
+cd dev bring sup the /dev folder, which brings up device files and folders.
+cd mnt brings up the mount folder.
+dir list contents in windows.
+A local administrator is only for a given computer, a network admin is for multiple computers on a given network.
+dll files are extension files.
+file extensions tell the operating system how to open a file or what application to open it with.
+FAT32 is one of the original formats that windows formatted its hard drives.
+FAT32, the size of the hard drive could not be bigger than 4 gb.
